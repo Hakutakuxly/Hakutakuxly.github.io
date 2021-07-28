@@ -1,28 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4000</id>
+    <id>https://Hakutakuxly.github.io</id>
     <title>遗忘之所</title>
-    <updated>2021-07-27T13:44:01.706Z</updated>
+    <updated>2021-07-28T02:16:00.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4000"/>
-    <link rel="self" href="http://localhost:4000/atom.xml"/>
-    <subtitle>天地一沙鸥</subtitle>
-    <logo>http://localhost:4000/images/avatar.png</logo>
-    <icon>http://localhost:4000/favicon.ico</icon>
+    <link rel="alternate" href="https://Hakutakuxly.github.io"/>
+    <link rel="self" href="https://Hakutakuxly.github.io/atom.xml"/>
+    <subtitle>自从得了神经病，整个人精神多了~</subtitle>
+    <logo>https://Hakutakuxly.github.io/images/avatar.png</logo>
+    <icon>https://Hakutakuxly.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 遗忘之所</rights>
     <entry>
+        <title type="html"><![CDATA[HTML | 悬浮音乐播放器]]></title>
+        <id>https://Hakutakuxly.github.io/post/html-or-xuan-fu-yin-le-bo-fang-qi/</id>
+        <link href="https://Hakutakuxly.github.io/post/html-or-xuan-fu-yin-le-bo-fang-qi/">
+        </link>
+        <updated>2021-07-28T01:16:49.000Z</updated>
+        <content type="html"><![CDATA[<p>你记不记得小时候最喜欢吃西红柿，成天嚷嚷着，一辈子都要吃西红柿，现在你长大了，不爱吃了，不喜欢就是不喜欢了，没有理由，你没错，西红柿也没错，错的是那些自以为是的一辈子。<br>
+<strong>注</strong>：<a href="https://www.yuque.com/u1117719/hakutaku/mws18i">@原文链接</a><br>
+<strong>rric</strong>@2020.07.28</p>
+<h2 id="代码">代码</h2>
+<pre><code class="language-javascript">&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdn.bootcdn.net/ajax/libs/jquery/3.5.1/jquery.js&quot;&gt;&lt;/script&gt;
+	&lt;script type=&quot;text/javascript&quot; src=&quot;https://myhkw.cn/player/js/player.js&quot; id=&quot;myhk&quot; key=&quot;demo&quot; m=&quot;1&quot;&gt;&lt;/script&gt;
+</code></pre>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[HTML | 网页效果]]></title>
-        <id>http://localhost:4000/post/html-or-wang-ye-xiao-guo/</id>
-        <link href="http://localhost:4000/post/html-or-wang-ye-xiao-guo/">
+        <id>https://Hakutakuxly.github.io/post/yinghualizi/</id>
+        <link href="https://Hakutakuxly.github.io/post/yinghualizi/">
         </link>
         <updated>2021-07-27T11:32:02.000Z</updated>
-        <content type="html"><![CDATA[<p>test</p>
+        <content type="html"><![CDATA[<blockquote>
+<p>告白就两个结果：要么一生，要么陌生。<br>
+<strong>注</strong>：<a href="https://www.yuque.com/u1117719/hakutaku/wf50ya#KJg46">@原文链接</a><br>
+<strong>rric</strong>@2020.07.28</p>
+</blockquote>
+<h2 id="代码">代码</h2>
+<pre><code class="language-javascript">&lt;script type=&quot;text/javascript&quot;&gt;
+var system ={}; 
+var p = navigator.platform; 
+system.win = p.indexOf(&quot;Win&quot;) == 0; 
+system.mac = p.indexOf(&quot;Mac&quot;) == 0; 
+system.x11 = (p == &quot;X11&quot;) || (p.indexOf(&quot;Linux&quot;) == 0); 
+if(system.win||system.mac||system.xll){   $.getScript(&quot;https://cdn.jsdelivr.net/gh/ivampiresp/special-JavaScript/yinghua.js&quot;);//樱花特效
+$.getScript(&quot;https://cdn.staticfile.org/canvas-nest.js/2.0.3/canvas-nest.js&quot;);//粒子特效
+}
+</code></pre>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://localhost:4000/post/hello-gridea/</id>
-        <link href="http://localhost:4000/post/hello-gridea/">
+        <id>https://Hakutakuxly.github.io/post/hello-gridea/</id>
+        <link href="https://Hakutakuxly.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
